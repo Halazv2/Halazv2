@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=28996C&lines=Hi+there+%F0%9F%91%8B+%F0%9F%98%81++I+am+Hala+Ziani+;Welcome+to+My+Profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B+I+am+Hala+Ziani;Welcome+to+My+Profile!++)](https://git.io/typing-svg)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript
 const Hala = {
@@ -22,7 +22,7 @@ const Hala = {
 ### 📈 GitHub Activity Graph:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Halazv2&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Halazv2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halazv2&show_icons=true&theme=radical&include_all_commits=true) ![Halazv2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Halazv2&theme=radical&layout=compact) 
+![Halazv2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halazv2&show_icons=true&theme=dark&include_all_commits=true) ![Halazv2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Halazv2&theme=radical&layout=compact) 
 
 
 

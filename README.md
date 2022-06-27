@@ -22,7 +22,7 @@ const Hala = {
 ### 📈 GitHub Activity Graph:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Halazv2&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Halazv2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halazv2&show_icons=true&theme=tokyonight&include_all_commits=true) ![Halazv2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Halazv2&theme=dracula&layout=compact) 
+![Halazv2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halazv2&show_icons=true&theme=dracula&include_all_commits=true) ![Halazv2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Halazv2&theme=dracula&layout=compact) 
 
 
 

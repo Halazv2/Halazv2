@@ -24,6 +24,4 @@ const Hala = {
 
 ![Halazv2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halazv2&show_icons=true&theme=dracula&include_all_commits=true) ![Halazv2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Halazv2&theme=dracula&layout=compact) 
 
-
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> **📫 How to Reach me:** 
+#### Thanks for visiting :heart: 

@@ -5,7 +5,6 @@ const Hala = {
   name: "Hala",
   age: 19,
   pronouns: "she/her",
-  job: "student",
   school: "YouCode, Safi",
   interests: ["music", "movies", "books", "sports", "travel"],
   stack: "Full stack web developer",
@@ -22,6 +21,13 @@ const Hala = {
 ```
 ### 📈 GitHub Activity Graph:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Halazv2&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halazv2&show_icons=true&theme=radical&include_all_commits=true)
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>How to Reach me:</em>
+
 <!--
 **Halazv2/Halazv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

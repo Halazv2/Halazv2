@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=28996C&lines=Hi+there+%F0%9F%91%8B+%F0%9F%98%81++I+am+Hala+Ziani+;Welcome+to+My+Profile!+)](https://git.io/typing-svg)
 
 <!--
 **Halazv2/Halazv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

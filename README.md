@@ -22,11 +22,16 @@ const Hala = {
 ### 📈 GitHub Activity Graph:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Halazv2&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<table>
-  <tr>
-    <td valign="top">![Halazv2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Halazv2&show_icons=true&theme=dracula&include_all_commits=true)</td>
-    <td valign="top"> ![Halazv2's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Halazv2&theme=dracula&layout=compact) 
-</td>
+
+
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Halazv2&show_icons=true&theme=dracula&include_all_commits=true"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halazv2&theme=dracula&layout=compact"/></td>
   </tr>
 </table>
+
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em> Thanks for visiting :heart: </em>

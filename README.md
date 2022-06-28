@@ -19,11 +19,7 @@ const Hala = {
   languages: ["English", "Arabic", "French"],
 };
 ```
-### 📈 GitHub Activity Graph:
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Halazv2&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
+### 📈 GitHub stats & Activity Graph :
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
@@ -32,6 +28,12 @@ const Hala = {
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halazv2&theme=dracula&layout=compact"/></td>
   </tr>
 </table>
+
+[![Halazv2's github activity graph](https://activity-graph.herokuapp.com/graph?username=Halazv2&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em> Thanks for visiting :heart: </em>

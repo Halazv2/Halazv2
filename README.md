@@ -15,7 +15,7 @@ const Hala = {
   code: ["javascript", "PHP", "HTML", "CSS"],
   frameworks: ["React", "Vue", "Larvel", "Tailwindcss"],
   architecture: ["MVC"],
-  tools: ["Git", "Github", "VSCode", "Photoshop", "Illustrator"],
+  tools: ["Git", "Github", "VSCode", "Photoshop", "Illustrator", "AdobeXD" , "Figma"],
   languages: ["English", "Arabic", "French"],
 };
 ```

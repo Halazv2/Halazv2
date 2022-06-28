@@ -21,7 +21,7 @@ const Hala = {
 ```
 ### 📈 GitHub stats & Activity Graph :
 <table cellpadding="0">
-  <tr style="padding: 10px">
+  <tr style="padding: 10">
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Halazv2&show_icons=true&theme=dracula&include_all_commits=true"/></td>
     <!-- GitHub Top Language Card -->

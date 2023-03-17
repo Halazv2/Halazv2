@@ -9,7 +9,7 @@ const Hala = {
   age: 19,
   pronouns: "she/her",
   school: "YouCode, Safi",
-  work: "MyRestai Europe, Marrakesh"
+  work: "MyRestai Europe, Marrakesh",
   interests: ["music", "movies", "books", "sports", "travel"],
   stack: "Full stack web developer",
   address: {

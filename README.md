@@ -7,7 +7,6 @@
 const Hala = {
   name: "Hala",
   age: 19,
-  pronouns: "she/her",
   school: "YouCode, Safi",
   work: "MyRestai Europe, Marrakesh",
   interests: ["music", "movies", "books", "sports", "travel"],

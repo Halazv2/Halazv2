@@ -6,7 +6,7 @@
 ```javascript
 const Hala = {
   name: "Hala",
-  age: 19,
+  age: 20,
   school: "YouCode, Safi",
   work: "MyRestai Europe, Marrakesh",
   interests: ["music", "movies", "books", "sports", "travel"],

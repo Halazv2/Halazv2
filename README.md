@@ -8,18 +8,27 @@ const Hala = {
   name: "Hala",
   age: 20,
   school: "YouCode, Safi",
-  work: "MyRestai Europe, Marrakesh",
+  work: "V12Software, Casablanca",
   interests: ["music", "movies", "books", "sports", "travel"],
   stack: "Full stack web developer",
   address: {
     city: "Oujda",
     country: "Morocco",
   },
-  code: ["javascript", "PHP", "HTML", "CSS"],
-  frameworks: ["React", "Vue", "Larvel", "Tailwindcss"],
-  architecture: ["MVC"],
+  code: ["JavaScript", "PHP"],
+  frameworks: ["ReactJs", "Vuejs", "NextJs", "Larvel", "Tailwindcss"],
   tools: ["Git", "Github", "VSCode", "Photoshop", "Illustrator", "AdobeXD" , "Figma"],
   languages: ["English", "Arabic", "French"],
+  contact: [
+      {
+        name: "Linkedin",
+        value: "Hala Ziani"
+      },
+      {
+        name: "Email"
+        value: "contact.halaziani@gmail.com"
+      },
+]
 };
 ```
 ### 📈 GitHub stats & Activity Graph :
@@ -33,10 +42,6 @@ const Hala = {
 </table>
 
 [![Halazv2's github activity graph](https://activity-graph.herokuapp.com/graph?username=Halazv2&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em> Thanks for visiting :heart: </em>

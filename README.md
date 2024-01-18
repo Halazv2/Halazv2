@@ -25,7 +25,7 @@ const Hala = {
         value: "Hala Ziani"
       },
       {
-        name: "Email"
+        name: "Email",
         value: "contact.halaziani@gmail.com"
       },
 ]

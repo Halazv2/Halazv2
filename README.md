@@ -8,7 +8,6 @@ const Hala = {
   name: "Hala",
   age: 20,
   school: "YouCode, Safi",
-  work: "V12Software, Casablanca",
   interests: ["music", "movies", "books", "sports", "travel"],
   stack: "Full stack web developer",
   address: {
@@ -23,10 +22,6 @@ const Hala = {
       {
         name: "Linkedin",
         value: "Hala Ziani"
-      },
-      {
-        name: "Email",
-        value: "contact.halaziani@gmail.com"
       },
 ]
 };
